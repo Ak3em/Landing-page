@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\asset",
+    "\\assets",
+    "\\images"
   ],
-  "SelectedNode": "\\LICENSE.txt",
+  "SelectedNode": "\\asset\\IMG_1906 (1).jpeg",
   "PreviewInSolutionExplorer": false
 }
